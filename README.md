@@ -1,7 +1,7 @@
 # Hi 👋, I'm Denis
 
 ## 🚀 About Me
-I study computer science @Babeș-Bolyai University in Cluj-Napoca, Romania 🇷🇴.  
+I study computer science @Babeș-Bolyai University 🎓 in Cluj-Napoca, Romania 🇷🇴.  
 I'm an ex SDE intern @AWS Dublin 📦, part of the SES 📭 team.  
 I'm a full stack developer @Poppy App Limited 🌹.
 
