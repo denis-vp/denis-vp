@@ -1,4 +1,4 @@
-# Hi 👋, I'm Denis!
+<h1 align="center">Hi 👋, I'm Denis</h1>
 
 ## 🚀 About Me
 I study computer science @Babeș-Bolyai University in Cluj-Napoca, Romania 🇷🇴.  
