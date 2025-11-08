@@ -10,14 +10,14 @@ Previously, I was an **SDE intern @ AWS Dublin**, part of the **SES 📭 team**.
 
 ## 🐈‍⬛ My interests
 - 👩‍💻 I’m passionate about building software and AI applications.
-- 🧠 Currently exploring **mobile development 📱, NLP 🗣️, and affective computing 😺**. 
+- 🧠 Currently exploring **distributed systems ⚙️, serverless architectures ☁️, and scalable backend design 🚀**.
 - 💬 Ask me about **AI 🤖**.
 - ⚡️ Fun fact: I love **Formula 1 🏁** and **Metal 🎸**.
 
 ## 🛠 Skills
-- AWS Services, Docker  
-- React, Angular, Material UI, ASP.NET, JSP, PHP  
-- C, C++, C#, Python, Java, TypeScript, JavaScript
+- AWS Services, Docker, IaC
+- React, Material UI, FastAPI
+- C, C++, Python, Java, TypeScript, JavaScript
 - Tensorflow, Scikit-learn, PyTorch, Keras
 
 ## 🔗 Links
